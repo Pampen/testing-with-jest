@@ -14,5 +14,5 @@ exports.pop = () => {
 
 //Returnerar det översta elementet i stacken
 exports.peek = () => {
-  return stack[0] 
-}
+  return stack[0] ;
+};
